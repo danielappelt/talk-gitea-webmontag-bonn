@@ -1,2 +1,2 @@
 # talk-gitea-webmontag-bonn
-Slides einer Präsentation über Gitea beim Webmontag in Bonn
+[Slides](https://danielappelt.github.io/talk-gitea-webmontag-bonn/) einer Präsentation über Gitea beim Webmontag in Bonn
